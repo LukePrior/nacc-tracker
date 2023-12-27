@@ -4,3 +4,4 @@ Tracking the number of referrals and investigations with the Australian National
 
 This data is extracted from the weekly releases published by the NACC here: https://www.nacc.gov.au/news-and-media
 
+![Graph](https://raw.githubusercontent.com/LukePrior/nacc-tracker/main/chart.png)
